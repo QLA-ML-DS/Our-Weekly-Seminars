@@ -21,6 +21,7 @@ This repository features the weekly research seminars at QLA. The slides will be
 |:-------------:|:----------------------------------------------------------:|:---------------------------------------------------:|
 | 11 - 01 - 2022  | **A Parametrized Quantum Circuit for Unitary Recurrent Network** | [Abdulmajid Osumanu](https://ca.linkedin.com/in/abdulmajid-osumanu-94a8a382) |
 | 18 - 01 - 2022  | **Physics-based Calibration of Electrochemical Sensor: from Traditional to Physics Informed Neural Networks Techniques.** | [Assionvi Hove Kouevi](https://rw.linkedin.com/in/assionvi-hove-kouevi-34a429142) |
+| 25 - 01 - 2022  | **Reducing Rainfed Smallholder Field Delineation Costs with Satellite Imagery using Deep Learning.** | [John Bagiliko](https://gh.linkedin.com/in/johnbagiliko) |
 
 
 
