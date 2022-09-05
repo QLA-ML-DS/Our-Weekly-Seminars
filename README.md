@@ -1,6 +1,6 @@
 # Weekly research seminars
 
-This repository features the weekly research seminars at QLA. The slides will be availble later on.
+This repository features the weekly research seminars at QLA.
 
 
 
