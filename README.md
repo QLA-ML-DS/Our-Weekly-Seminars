@@ -31,16 +31,15 @@ This repository features the weekly research seminars at QLA. The slides will be
 | 15 - 02 - 2022  | **The calculation of Betti numbers-1** | [Domini Jocema Leko](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) |
 | 22 - 02 - 2022  | **The calculation of Betti numbers-2** | [Domini Jocema Leko](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) |
 | 01 - 03 - 2022  | [**Git-and-GitHub-quick-start-tutorial**](https://github.com/QLA-ML-DS/Git-Github-Tuorial/blob/main/Tutorial-Files/the-practical.md) | [QLA](https://aims.ac.rw/quantum-leap-africa-qla/) | |
+| 17 - 05 - 2022  | Vision Transformers for Diabetic retinopathy grading from fundus images | [Jeremiah Fadugba](https://www.linkedin.com/in/jeremiah-fadugba-5b3a5375/?originalSubdomain=ng) | |
+| 24 - 05 - 2022  | Quantum error decoding | [Aulan Lucrece Zahoundo](https://www.linkedin.com/in/aulan-zahoundo/) | |
+| 14 - 06 - 2022  |  Quantum Tests for Quadratic Phase Functions | [Crownie Ocha Eme](https://www.linkedin.com/in/crownie-eme/?originalSubdomain=gh) | |
+| 21 - 06 - 2022  |  Clustering of Longitudinal Viral Load Trajectories in the Western Cape | [	Eke Nnanna Arua](https://www.linkedin.com/in/eke-arua-0036aa175/) | |
 
 
 
-### **Coming**
 
-| Day |         Topic   |     Speaker     |
-|:-------------:|:----------------------------------------------------------:|:---------------------------------------------------:|
-| 05 - 04 - 2022  | **TBA** | [AIMS-NEI](https://aims.ac.rw/quantum-leap-africa-qla/) |
-| 12 - 04 - 2022  | **TBA** | [AIMS-NEI](https://aims.ac.rw/quantum-leap-africa-qla/) |
-| 19 - 04 - 2022  | **TBA** | [AIMS-NEI](https://aims.ac.rw/quantum-leap-africa-qla/) |
+
 
 
 
