@@ -35,7 +35,6 @@ This repository features the weekly research seminars at QLA.
 | 24 - 05 - 2022  | Quantum error decoding | [Aulan Lucrece Zahoundo](https://www.linkedin.com/in/aulan-zahoundo/) | |
 | 14 - 06 - 2022  |  Quantum Tests for Quadratic Phase Functions | [Crownie Ocha Eme](https://www.linkedin.com/in/crownie-eme/?originalSubdomain=gh) | |
 | 21 - 06 - 2022  |  Clustering of Longitudinal Viral Load Trajectories in the Western Cape | [	Eke Nnanna Arua](https://www.linkedin.com/in/eke-arua-0036aa175/) | |
-| 28 - 07 - 2022  |  Deep Learning BSDE with application in quantitative finance | [	Theonille MUKAMANA](https://www.linkedin.com/in/eke-arua-0036aa175/) | |
 
 
 
